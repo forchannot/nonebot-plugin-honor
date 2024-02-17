@@ -2,7 +2,7 @@ from nonebot.plugin import PluginMetadata, inherit_supported_adapters
 
 from .main import honor  # noqa: F401
 
-__version__ = "0.1.0"
+__version__ = "0.1.1"
 __plugin_meta__ = PluginMetadata(
     name="nonebot_plugin_honor",
     description="简易查询王者荣耀英雄胜率",
