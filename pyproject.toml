@@ -9,6 +9,7 @@ dependencies = [
     "nonebot-plugin-send-anything-anywhere>=0.5.0",
     "nonebot2>=2.2.0",
     "pillow>=10.2.0",
+    "pydantic<2",
 ]
 requires-python = ">=3.8"
 readme = "README.md"
