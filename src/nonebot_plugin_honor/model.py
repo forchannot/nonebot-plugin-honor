@@ -19,3 +19,4 @@ class HonorWinOrLooseDetail(BaseModel):
     bpRate: List[str]
     pickRate: List[str]
     winRate: List[str]
+    updateTime: str
